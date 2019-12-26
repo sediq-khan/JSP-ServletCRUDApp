@@ -1,4 +1,4 @@
-# JSP-ServletCRUDApp
+# JSP-Servlet CRUD Application
 This CRUD application uses Bootstrap libraries for some UI controls. It carries out a Create, Read, Update and Delete operations on the Database.
 
 Before you deploy this web app, the following sql query shall be run. The application uses MySQL for backend.
