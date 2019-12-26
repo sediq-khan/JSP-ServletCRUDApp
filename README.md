@@ -19,5 +19,9 @@ CREATE TABLE `book` (
 ```
 
 Following is a screenshot of the CRUD app.
-![Screenshot 1](Screenshot 1.png)
-Format: ![Screenshot 1](https://github.com/sediq-khan/JSP-ServletCRUDApp/blob/master/Screenshot%201.png)
+
+Screenshot 1 ![Screenshot 1](https://github.com/sediq-khan/JSP-ServletCRUDApp/blob/master/Screenshot%201.png)
+
+Screenshot 2 ![Screenshot 2](https://github.com/sediq-khan/JSP-ServletCRUDApp/blob/master/Screenshot%202.png)
+
+Screenshot 3 ![Screenshot 3](https://github.com/sediq-khan/JSP-ServletCRUDApp/blob/master/Screenshot%203.png)
